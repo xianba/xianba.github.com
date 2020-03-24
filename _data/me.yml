@@ -5,9 +5,10 @@ job: "Quant of financial technology"
 hi: "Hello, World!" # some word to reader 
 avatar_img: "/assets/img/me.png"
 intro:
-  - "一个 PHP 程序员, 技术宅, 总是在追求上进的吹毛求疵者"
-  - "除了敲代码, 还喜欢看书, 听摇滚, 做瑜伽, 以及猫猫狗狗"
-  - "业余时间你会看到我不是在像模像样的弹吉他, 就是骑着车子在城里晃荡"
+  - "                                                "
+  - "现金流折现法也计算不出日积月累的代码行数"
+  - "程序代码资产没有摊销和折旧，SG&A却贵的离谱"
+  - "不能转化成会计科目的代码不是好代码"
 skills:
   - name: "Program"
     icon-class: "fa fa-terminal"
