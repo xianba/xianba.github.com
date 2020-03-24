@@ -20,8 +20,8 @@ permalink: /:categories/:title
 excerpt_separator: "[-----]"
 
 url: https://xianba.github.io # Required: replace this with your domain
-name: Quant # Required: will be displayed on every page's header
-title: Xianba # Required: site's default title
+name: Xianba's Blog # Required: will be displayed on every page's header
+title: Xianba's Blog # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
   - NEVER
   - OR NOW
