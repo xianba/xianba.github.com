@@ -2,7 +2,7 @@
 
 name: 夏献霸
 job: "Quant of financial technology"
-hi: " " # some word to reader 
+hi: "Hello, World!" # some word to reader 
 avatar_img: "/assets/img/me.png"
 intro:
   - "一个 PHP 程序员, 技术宅, 总是在追求上进的吹毛求疵者"
