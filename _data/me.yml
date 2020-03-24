@@ -5,7 +5,7 @@ job: "Quant of financial technology"
 hi: "Hello, World!" # some word to reader 
 avatar_img: "/assets/img/me.png"
 intro:
-  - "                                                "
+  - "附注："
   - "现金流折现法也计算不出日积月累的代码行数"
   - "程序代码资产没有摊销和折旧，SG&A却贵的离谱"
   - "不能转化成会计科目的代码不是好代码"
