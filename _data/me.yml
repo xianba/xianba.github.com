@@ -12,12 +12,12 @@ skills:
   - name: "Program"
     icon-class: "fa fa-terminal"
     list: ["Python", "R", "Shell", "C/C++", "SQL", "Java"]
-  - name: "Framework"
+  - name: "Field"
     icon-class: "fa fa-th-list"
-    list: ["Hadoop", "Spark", "Tomcat", "Zookeeper", "Bootstrap", "jQuery"]
-  - name: "Tools"
+    list: ["股票", "商品期货", "可转债", "基金", "信用债/利率债", "期权", "估值期货"]
+  - name: "Software"
     icon-class: "fa fa-cogs"
-    list: ["Linux", "Windows", "Git", "MySQL", "Nginx", "Oracle", "Jekyll"]
+    list: ["万得", "同花顺", "东方财富", "优矿", "聚宽"]
 
 display_name: Xianba's blog
 contact:
