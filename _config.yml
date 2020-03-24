@@ -25,7 +25,7 @@ title: Xianba's Blog # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
   - NEVER
   - OR NOW
-description: "Xianba's Blog" # Required
+description: "Quant of financial technology" # Required
 
 disqus:
   comments: true # Global toggle on/off disqus comment
