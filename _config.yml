@@ -21,11 +21,11 @@ excerpt_separator: "[-----]"
 
 url: https://xianba.github.io # Required: replace this with your domain
 name: Quant # Required: will be displayed on every page's header
-title: Quant # Required: site's default title
+title: Xianba # Required: site's default title
 shout: # Required: **TWO** lines, will be displayed on page's header.
   - NEVER
   - OR NOW
-description: "Xianba's personal blog, on IT tech, personal thoughts and other things..." # Required
+description: "Xianba's Blog" # Required
 
 disqus:
   comments: true # Global toggle on/off disqus comment
