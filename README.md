@@ -1,5 +1,9 @@
-# xianba.github.com
+# My github pages
 
-This jekyll theme is from [jekyllrb](https://jekyllrb.com/resources/), and the template name are [Sidey](https://jamstackthemes.dev/theme/sidey-jekyll/) and [idk](https://jamstackthemes.dev/theme/jekyll-idk/).
+My blog. On IT tech, personal thoughts and so on....
 
-If have any questions,please contact me by e-mail(xiaxianba@qq.com),thank you.
+Built on github pages, powered by jekyll.
+Served at <https://unifreak.github.io>
+
+If you are insterested in the blog's jekyll theme, see [jekyll-theme-textalic](https://github.com/UniFreak/jekyll-theme-textalic)
+
