@@ -9,15 +9,15 @@ intro:
   - "除了敲代码, 还喜欢看书, 听摇滚, 做瑜伽, 以及猫猫狗狗"
   - "业余时间你会看到我不是在像模像样的弹吉他, 就是骑着车子在城里晃荡"
 skills:
-  - name: "Quant"
+  - name: "Program"
     icon-class: "fa fa-terminal"
-    list: ["PHP", "Python", "Shell", "C", "SQL", "HTML / CSS", "JS / ES6", "jQuery", "Markdown", "Regex"]
+    list: ["Python", "R", "Shell", "C/C++", "SQL", "Java"]
   - name: "Framework"
     icon-class: "fa fa-th-list"
-    list: ["Laravel / Lumen", "ThinkPHP", "Yii", "Flask", "Vue.js", "SASS", "Bootstrap", "jQuery", "Liquid"]
+    list: ["Hadoop", "Spark", "Tomcat", "Zookeeper", "Bootstrap", "jQuery"]
   - name: "Tools"
     icon-class: "fa fa-cogs"
-    list: ["Linux", "Docker", "Git", "SublimeText", "MySQL", "Nginx", "Redis", "Composer", "Jekyll"]
+    list: ["Linux", "Windows", "Git", "MySQL", "Nginx", "Oracle", "Jekyll"]
 
 display_name: Xianba's blog
 contact:
