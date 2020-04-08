@@ -18,6 +18,6 @@ excerpt: "在做量化研究过程中，我们会遇到很多问题，而且这�
 # 二、项目报告
 根据以上项目要求，笔者完成了数据挖掘报告和相关数据、代码文件。
 
-[北上资金量化选股策略报告](assets/file/northwardcapital/北上资金量化选股策略报告.pdf)
+[北上资金量化选股策略报告](https://github.com/xianba/xianba.github.com/blob/master/assets/file/northwardcapital/%E5%8C%97%E4%B8%8A%E8%B5%84%E9%87%91%E9%87%8F%E5%8C%96%E9%80%89%E8%82%A1%E7%AD%96%E7%95%A5%E6%8A%A5%E5%91%8A.pdf)
 
 如果在线打开比较慢，读者朋友可以下载到本地之后再打开；代码文件由于一些原因没有放上去，如果有需要的朋友，可以私下联系。
