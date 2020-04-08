@@ -9,8 +9,6 @@ __夏献霸__ \| 1988.10 \| 量化研究 \| 上海/杭州 <br />
 Email: [xiaxianba@qq.com](mailto:xiaxianba@qq.com) <br />
 博客: <https://xianba.github.io/>
 
-<HR>
-
 # 项目信息
 
 ## 数据挖掘
