@@ -6,7 +6,7 @@ layout: default
 
 
 {% if group_name == "series" %}
-  {% include group_list.html groups=groups %}
+  {% include group_list.html  groups=site.collections %}
 {% else %}
   {% case group_name %}
     {% when 'category' %}
