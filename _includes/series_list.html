@@ -20,6 +20,21 @@
 
     {% assign groupIdx = 0 %}
     {% for group in include.groups %}
+      {% assign group_name = group | first %}
+      {% unless group_name == "collections" %}
+          <section class="showcase col-lg-9 col-lg-offset-1 {% if groupIdx > 0 %} hide {% else %} current {% endif %}" data-show="{{ group | first }}">
+            {% for posts in group %}
+              {% include post_list.html posts=posts groupIdx=groupIdx %}
+              {% assign groupIdx = groupIdx | plus: 1 %}
+            {% endfor %}
+          </section>
+     {% endunless %}
+  {% endfor %}
+</div>    
+    
+<--
+    {% assign groupIdx = 0 %}
+    {% for group in include.groups %}
       {% unless group.label == "posts" %}
         <section class="showcase col-lg-9 col-lg-offset-1 {% if groupIdx > 0 %} hide {% else %} current {% endif %}" data-show="{{ group | first }}">
           {% include post_list.html posts=group.docs groupIdx=groupIdx %}
@@ -29,3 +44,5 @@
     {% endfor %}
   </div>
 </div>
+!-->
+
