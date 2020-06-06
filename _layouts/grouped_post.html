@@ -4,15 +4,7 @@ layout: default
 
 {% assign group_name = page.path | split: "/" | first %}
 
-{% case group_name %}
-    {% when 'category' %}
-      {% assign groups = site.categories %}
-    {% when 'tag' %}
-     {% assign groups = site.tags %}
-{% endcase %}
-{% include group_list.html groups=groups %}
 
-<--
 {% if group_name == "series" %}
   {% include series_list.html groups=site.collections %}
 {% else %}
@@ -24,4 +16,4 @@ layout: default
   {% endcase %}
   {% include group_list.html groups=groups %}
 {% endif %}
-!-->
+
