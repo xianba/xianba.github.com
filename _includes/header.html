@@ -27,7 +27,13 @@
                             <li><a href="{{ '/tag' | relative_url }}">标签</a></li>
                         </ul>
                     </li>
-                    <li class="col-lg-3"><a href="{{ '/series' | relative_url }}">专题</a></li>
+                    <li class="col-lg-3">
+                         <ul class="subnav">
+                            <a href="javascript:void(0)">专题</a>
+                            <li><a href="{{ '/report' | relative_url }}">研究报告</a></li>
+                            <li><a href="{{ '/data' | relative_url }}">数据</a></li>
+                        </ul>
+                    </li>
                     <li class="col-lg-3"><a href="{{ '/about' | relative_url }}">关于作者</a></li>
                 </ul>
             </nav>
