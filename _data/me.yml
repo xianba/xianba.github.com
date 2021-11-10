@@ -28,4 +28,4 @@ social:
   - {name: "GitHub", icon-class: "fa fa-github-square", text: "https://github.com/xianba", link: "https://github.com/xianba"}
   - {name: "StackOverflow", icon-class: "fa fa-stack-overflow", text: "stack-overflow", link: "https://stackoverflow.com/"}
   - {name: "QQ", icon-class: "fa fa-qq", text: "778757080", link: "https://user.qzone.qq.com/778757080"}
-  - {name: "Wechat", icon-class: "fa fa-wechat", text: "wx778757080", link: "https://weixin.qq.com/"}
+  - {name: "Wechat", icon-class: "fa fa-wechat", text: "xianba66", link: "https://weixin.qq.com/"}
